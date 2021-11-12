@@ -10,6 +10,8 @@ Ada menu pilihan:
 3. Membuat backup (ke server seandainya ada)
 4. Keluar
 
+![Database Sekolah](./data_sekolah.png)
+
 
 ## Bagaimana mulai
 
